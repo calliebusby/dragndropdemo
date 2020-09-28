@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Drag and Drop Demo App
+
+Drag and drop written with React-Diagrams.
+
 ## Available Scripts
 
 In the project directory, you can run:
