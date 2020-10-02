@@ -2,7 +2,7 @@
 import * as React from 'react';
 import * as _ from 'lodash';
 import { TrayWidget } from "./TrayWidget";
-import { App } from '../App';
+import { Diagram } from '../App';
 import { TrayItemWidget } from './TrayItemWidget';
 import { DefaultNodeModel } from '@projectstorm/react-diagrams';
 import { CanvasWidget } from '@projectstorm/react-canvas-core';
@@ -11,7 +11,7 @@ import { DemoCanvasWidget } from './DemoCanvasWidget';
 import styled from "styled-components";
 
 export interface BodyWidgetProps {
-    app: App;
+    app: Diagram;
 }
 
 
